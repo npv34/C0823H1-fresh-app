@@ -1,0 +1,78 @@
+.card .image-product-backup-1 {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.card:hover .image-product-backup-1 {
+    display: inline;
+}
+
+.card .img-product-backup-1{
+    display: none;
+    position: absolute;
+    justify-content: center;
+}
+.card:hover .img-product-backup-1{
+    display: inline;
+}
+.ioo{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.io{
+    color: white;
+}
+.hh{
+    height: 220px;
+    width: 220px!important;
+}
+.aa{
+    text-decoration: none;
+    color: green;
+}
+.footer{
+    background: #F0F3F2;
+    margin-top: 50px;
+}
+.hihi{
+    text-decoration: none;
+    color: #616C75;
+}
+.uio{
+    display: flex;
+    margin-top: 15px;
+}
+.uio1{
+    margin-top: 4px;
+}
+.ho{
+    margin-left: 10px;
+}
+.iop{
+    display: flex;
+}
+.iop1>h6{
+    margin-top: 15px;
+}
+.tutu{
+    display: flex;
+}
+.tutu2{
+    display: flex;
+}
+.tutu2>a{
+    margin-left:10px;
+    border: 1px #616C75 solid;
+    border-radius: 9px;
+    height: 1.75rem;
+    width: 1.75rem;
+}
+.tutu2>a>i{
+    color: #616C75;
+    padding: 5px;
+}
+
+
+
